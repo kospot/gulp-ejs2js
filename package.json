@@ -1,0 +1,20 @@
+{
+  "name": "gulp-ejs2js",
+  "version": "1.0.0",
+  "description": "transfor ejs to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejs",
+    "js"
+  ],
+  "author": "miniwa",
+  "license": "ISC",
+  "devDependencies": {
+    "map-stream": "0.0.6",
+    "path": "^0.12.7",
+    "through2": "^2.0.0"
+  }
+}
